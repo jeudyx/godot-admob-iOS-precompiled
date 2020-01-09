@@ -7,6 +7,6 @@ Build types: release
 
 **How to use**
 
-Follow the instructions [here](https://github.com/GhostWalker562/godot-admob-iOS-precompiled).
+Follow the instructions [here](https://github.com/GhostWalker562/godot-admob-iOS-precompiled) (but download the .a file from the Releases tab on my repo).
 
 If you have questions or issues, let me know.
